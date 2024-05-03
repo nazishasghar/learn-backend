@@ -1,3 +1,6 @@
 [submodule "nest-backend"]
 	path = nest-backend
 	url = https://github.com/nazishasghar/nest-backend.git
+[submodule "nest-backend-infra"]
+	path = nest-backend-infra
+	url = https://github.com/nazishasghar/nest-backend-infra.git
